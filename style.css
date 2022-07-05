@@ -1,0 +1,19 @@
+body {
+    background-color: #2596be;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-flow: column wrap;
+    
+}
+
+#btn {
+    align-items: center;
+}
+
+#output {
+    align-items: center;
+}
